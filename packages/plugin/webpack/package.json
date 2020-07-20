@@ -1,8 +1,8 @@
 {
-  "name": "@electron-forge/plugin-webpack",
+  "name": "moc-electron-forge-pluginwebpack",
   "version": "6.0.0-beta.52",
-  "description": "Webpack plugin for Electron Forge, let's you use a webpack directly in your tooling",
-  "repository": "https://github.com/electron-userland/electron-forge",
+  "description": "(fork of @electron-forge/plugin-webpack with issue 1852 fix)Webpack plugin for Electron Forge, let's you use a webpack directly in your tooling",
+  "repository": "https://github.com/vazra/electron-forge",
   "author": "Samuel Attard",
   "license": "MIT",
   "main": "dist/WebpackPlugin.js",
